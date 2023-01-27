@@ -1,0 +1,28 @@
+.bouton {
+    background-color: aqua;
+    padding: 15px;
+    border-radius: 20px;
+}
+
+a:hover {
+    background-color: rgb(83, 169, 179);
+}
+
+#liste {
+    list-style: none;
+    display: flex;
+}
+
+.case {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    margin: 20px;
+}
+
+.case1 {
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    margin: 20px;
+}
