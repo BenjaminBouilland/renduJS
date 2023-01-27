@@ -1,4 +1,6 @@
-/* const exercice1 = document.querySelector ('#exercice1');
+/* premiere version
+
+const exercice1 = document.querySelector ('#exercice1');
 
 function afficherExercice1 () {
     return exercice1;
